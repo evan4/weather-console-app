@@ -1,0 +1,17 @@
+{
+  "name": "weather-console",
+  "version": "1.0.0",
+  "description": "weather console app",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Ivan",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "chalk": "^5.0.1",
+    "dedent-js": "^1.0.1"
+  }
+}
